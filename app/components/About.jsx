@@ -5,7 +5,7 @@ var About = (props) => {
     <div>
       <h1 className="text-center page-title">About</h1>
       <p>
-        Just a basic weather application for you lazy bums.
+        Just a basic weather application.
       </p>
       <p>
         Don't care about the weather?  Here are some external links you might find useful:
@@ -19,6 +19,12 @@ var About = (props) => {
         </li>
         <li>
           <a href="https://slickdeals.net">Slickdeals</a> - Who doesn't like sales?
+        </li>
+        <li>
+          <a href="https://facebook.com">Facebook</a> - For your social media needs.
+        </li>
+        <li>
+          <a href="https://youtube.com">YouTube</a> - Popular video-sharing website.
         </li>
       </ol>
     </div>
